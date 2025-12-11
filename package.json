@@ -1,0 +1,25 @@
+{
+  "name": "website-testing-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Website with Playwright tests",
+"main": "website/server.js",
+"scripts": {
+  "start": "node website/server.js",
+  "test": "playwright test",
+  "test:single-browser": "playwright test --workers=1",
+  "test:headed": "playwright test --headed --workers=1",
+  "test:debug": "playwright test --debug",
+  "test:ui": "playwright test --ui",
+  "install:browsers": "playwright install"
+},
+  "keywords": ["playwright", "testing"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

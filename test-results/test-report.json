@@ -1,0 +1,275 @@
+[
+  {
+    "testName": "should load homepage successfully",
+    "status": "passed",
+    "duration": 448,
+    "timestamp": "2025-12-11T08:53:14.616Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have navbar with all navigation links",
+    "status": "passed",
+    "duration": 266,
+    "timestamp": "2025-12-11T08:53:14.958Z",
+    "browser": ""
+  },
+  {
+    "testName": "should navigate to sections via anchor links",
+    "status": "passed",
+    "duration": 329,
+    "timestamp": "2025-12-11T08:53:15.339Z",
+    "browser": ""
+  },
+  {
+    "testName": "should display hero section with welcome message",
+    "status": "passed",
+    "duration": 271,
+    "timestamp": "2025-12-11T08:53:15.660Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have working Get Started button",
+    "status": "passed",
+    "duration": 316,
+    "timestamp": "2025-12-11T08:53:16.029Z",
+    "browser": ""
+  },
+  {
+    "testName": "should load and display users",
+    "status": "passed",
+    "duration": 689,
+    "timestamp": "2025-12-11T08:53:16.766Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have all user card elements",
+    "status": "passed",
+    "duration": 253,
+    "timestamp": "2025-12-11T08:53:17.062Z",
+    "browser": ""
+  },
+  {
+    "testName": "should search users by name",
+    "status": "passed",
+    "duration": 356,
+    "timestamp": "2025-12-11T08:53:17.461Z",
+    "browser": ""
+  },
+  {
+    "testName": "should search users by email",
+    "status": "passed",
+    "duration": 336,
+    "timestamp": "2025-12-11T08:53:17.841Z",
+    "browser": ""
+  },
+  {
+    "testName": "should clear search and display all users",
+    "status": "passed",
+    "duration": 439,
+    "timestamp": "2025-12-11T08:53:18.328Z",
+    "browser": ""
+  },
+  {
+    "testName": "should handle search with keyboard Enter",
+    "status": "passed",
+    "duration": 783,
+    "timestamp": "2025-12-11T08:53:19.163Z",
+    "browser": ""
+  },
+  {
+    "testName": "should display analytics dashboard",
+    "status": "passed",
+    "duration": 247,
+    "timestamp": "2025-12-11T08:53:19.446Z",
+    "browser": ""
+  },
+  {
+    "testName": "should show all analytics metrics",
+    "status": "passed",
+    "duration": 258,
+    "timestamp": "2025-12-11T08:53:19.742Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have numeric values in analytics",
+    "status": "passed",
+    "duration": 254,
+    "timestamp": "2025-12-11T08:53:20.038Z",
+    "browser": ""
+  },
+  {
+    "testName": "should refresh analytics and update values",
+    "status": "passed",
+    "duration": 941,
+    "timestamp": "2025-12-11T08:53:21.027Z",
+    "browser": ""
+  },
+  {
+    "testName": "should display refresh button",
+    "status": "passed",
+    "duration": 223,
+    "timestamp": "2025-12-11T08:53:21.300Z",
+    "browser": ""
+  },
+  {
+    "testName": "should display settings form",
+    "status": "passed",
+    "duration": 236,
+    "timestamp": "2025-12-11T08:53:21.579Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have all form fields",
+    "status": "passed",
+    "duration": 226,
+    "timestamp": "2025-12-11T08:53:21.839Z",
+    "browser": ""
+  },
+  {
+    "testName": "should fill and submit settings form with valid data",
+    "status": "passed",
+    "duration": 370,
+    "timestamp": "2025-12-11T08:53:22.245Z",
+    "browser": ""
+  },
+  {
+    "testName": "should validate email field",
+    "status": "passed",
+    "duration": 250,
+    "timestamp": "2025-12-11T08:53:22.532Z",
+    "browser": ""
+  },
+  {
+    "testName": "should require all form fields",
+    "status": "passed",
+    "duration": 301,
+    "timestamp": "2025-12-11T08:53:22.867Z",
+    "browser": ""
+  },
+  {
+    "testName": "should toggle notifications checkbox",
+    "status": "passed",
+    "duration": 373,
+    "timestamp": "2025-12-11T08:53:23.286Z",
+    "browser": ""
+  },
+  {
+    "testName": "should show success message after save",
+    "status": "passed",
+    "duration": 278,
+    "timestamp": "2025-12-11T08:53:23.614Z",
+    "browser": ""
+  },
+  {
+    "testName": "should hide success message after 3 seconds",
+    "status": "passed",
+    "duration": 3844,
+    "timestamp": "2025-12-11T08:53:27.492Z",
+    "browser": ""
+  },
+  {
+    "testName": "should be responsive on mobile viewport",
+    "status": "passed",
+    "duration": 235,
+    "timestamp": "2025-12-11T08:53:27.762Z",
+    "browser": ""
+  },
+  {
+    "testName": "should be responsive on tablet viewport",
+    "status": "passed",
+    "duration": 222,
+    "timestamp": "2025-12-11T08:53:28.015Z",
+    "browser": ""
+  },
+  {
+    "testName": "should be responsive on desktop viewport",
+    "status": "passed",
+    "duration": 206,
+    "timestamp": "2025-12-11T08:53:28.251Z",
+    "browser": ""
+  },
+  {
+    "testName": "should load page within reasonable time",
+    "status": "passed",
+    "duration": 199,
+    "timestamp": "2025-12-11T08:53:28.483Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have no console errors",
+    "status": "passed",
+    "duration": 200,
+    "timestamp": "2025-12-11T08:53:28.716Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have page title",
+    "status": "passed",
+    "duration": 176,
+    "timestamp": "2025-12-11T08:53:28.924Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have proper heading hierarchy",
+    "status": "passed",
+    "duration": 193,
+    "timestamp": "2025-12-11T08:53:29.148Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have alt text for images if any",
+    "status": "passed",
+    "duration": 199,
+    "timestamp": "2025-12-11T08:53:29.377Z",
+    "browser": ""
+  },
+  {
+    "testName": "should display footer with copyright",
+    "status": "passed",
+    "duration": 200,
+    "timestamp": "2025-12-11T08:53:29.613Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have visible content in each section",
+    "status": "passed",
+    "duration": 216,
+    "timestamp": "2025-12-11T08:53:29.863Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have clickable buttons",
+    "status": "passed",
+    "duration": 207,
+    "timestamp": "2025-12-11T08:53:30.104Z",
+    "browser": ""
+  },
+  {
+    "testName": "should have proper button styling",
+    "status": "passed",
+    "duration": 221,
+    "timestamp": "2025-12-11T08:53:30.358Z",
+    "browser": ""
+  },
+  {
+    "testName": "should load large dataset without crashing",
+    "status": "passed",
+    "duration": 173,
+    "timestamp": "2025-12-11T08:53:30.562Z",
+    "browser": ""
+  },
+  {
+    "testName": "should parse bulk user CSV data",
+    "status": "passed",
+    "duration": 195,
+    "timestamp": "2025-12-11T08:53:30.793Z",
+    "browser": ""
+  },
+  {
+    "testName": "should load large product dataset",
+    "status": "passed",
+    "duration": 186,
+    "timestamp": "2025-12-11T08:53:31.018Z",
+    "browser": ""
+  }
+]

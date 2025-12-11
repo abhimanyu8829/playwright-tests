@@ -1,0 +1,19 @@
+{
+  "users": [
+    {"id": 1, "name": "John Doe", "email": "john1@example.com", "age": 28, "active": true, "joinDate": "2024-01-15"},
+    {"id": 2, "name": "Jane Smith", "email": "jane2@example.com", "age": 34, "active": true, "joinDate": "2024-02-20"},
+    {"id": 3, "name": "Mike Johnson", "email": "mike3@example.com", "age": 31, "active": false, "joinDate": "2024-03-10"},
+    {"id": 4, "name": "Sarah Williams", "email": "sarah4@example.com", "age": 29, "active": true, "joinDate": "2024-04-05"},
+    {"id": 5, "name": "Tom Brown", "email": "tom5@example.com", "age": 42, "active": true, "joinDate": "2024-05-12"},
+    {"id": 6, "name": "Emily Davis", "email": "emily6@example.com", "age": 26, "active": true, "joinDate": "2024-06-18"},
+    {"id": 7, "name": "David Miller", "email": "david7@example.com", "age": 35, "active": false, "joinDate": "2024-07-22"},
+    {"id": 8, "name": "Lisa Garcia", "email": "lisa8@example.com", "age": 30, "active": true, "joinDate": "2024-08-14"},
+    {"id": 9, "name": "James Rodriguez", "email": "james9@example.com", "age": 33, "active": true, "joinDate": "2024-09-09"},
+    {"id": 10, "name": "Anna Martinez", "email": "anna10@example.com", "age": 27, "active": true, "joinDate": "2024-10-03"}
+  ],
+  "metadata": {
+    "totalCount": 10,
+    "generatedAt": "2025-12-11",
+    "version": "1.0"
+  }
+}

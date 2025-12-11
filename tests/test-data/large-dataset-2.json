@@ -1,0 +1,18 @@
+{
+  "products": [
+    {"productId": 1, "name": "Laptop Pro", "price": 1299.99, "category": "Electronics", "stock": 150, "reviews": 4.5},
+    {"productId": 2, "name": "Wireless Mouse", "price": 49.99, "category": "Electronics", "stock": 500, "reviews": 4.2},
+    {"productId": 3, "name": "USB-C Cable", "price": 12.99, "category": "Electronics", "stock": 1000, "reviews": 4.7},
+    {"productId": 4, "name": "Monitor 4K", "price": 599.99, "category": "Electronics", "stock": 75, "reviews": 4.6},
+    {"productId": 5, "name": "Mechanical Keyboard", "price": 159.99, "category": "Electronics", "stock": 200, "reviews": 4.8},
+    {"productId": 6, "name": "Webcam HD", "price": 89.99, "category": "Electronics", "stock": 300, "reviews": 4.3},
+    {"productId": 7, "name": "Desk Lamp", "price": 39.99, "category": "Furniture", "stock": 400, "reviews": 4.4},
+    {"productId": 8, "name": "Office Chair", "price": 299.99, "category": "Furniture", "stock": 100, "reviews": 4.5},
+    {"productId": 9, "name": "Standing Desk", "price": 499.99, "category": "Furniture", "stock": 80, "reviews": 4.7},
+    {"productId": 10, "name": "File Cabinet", "price": 179.99, "category": "Furniture", "stock": 150, "reviews": 4.2}
+  ],
+  "metadata": {
+    "totalProducts": 10,
+    "generatedAt": "2025-12-11"
+  }
+}

@@ -1,0 +1,11 @@
+id,name,email,department,salary,hireDate,status
+1,John Doe,john.doe@company.com,Engineering,85000,2020-01-15,Active
+2,Jane Smith,jane.smith@company.com,HR,65000,2021-06-20,Active
+3,Mike Johnson,mike.j@company.com,Sales,75000,2019-11-10,Active
+4,Sarah Williams,sarah.w@company.com,Marketing,72000,2021-03-05,Active
+5,Tom Brown,tom.b@company.com,Engineering,88000,2020-07-12,Active
+6,Emily Davis,emily.d@company.com,Design,70000,2021-09-18,Active
+7,David Miller,david.m@company.com,Finance,78000,2019-02-20,Active
+8,Lisa Garcia,lisa.g@company.com,Engineering,86000,2020-11-30,Active
+9,James Rodriguez,james.r@company.com,Sales,76000,2021-01-25,Active
+10,Anna Martinez,anna.m@company.com,HR,64000,2021-08-10,Active

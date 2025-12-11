@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Website - Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <h1 class="logo">Dashboard</h1>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#users">Users</a></li>
+                <li><a href="#analytics">Analytics</a></li>
+                <li><a href="#settings">Settings</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main>
+        <section id="home" class="hero">
+            <div class="container">
+                <h2>Welcome to Test Dashboard</h2>
+                <p>This is a comprehensive website for testing purposes</p>
+                <button id="startBtn" class="btn btn-primary">Get Started</button>
+            </div>
+        </section>
+
+        <section id="users" class="users-section">
+            <div class="container">
+                <h2>Users Management</h2>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Search users..." class="search-input">
+                    <button id="searchBtn" class="btn btn-secondary">Search</button>
+                </div>
+                <div id="usersList" class="users-grid"></div>
+            </div>
+        </section>
+
+        <section id="analytics" class="analytics-section">
+            <div class="container">
+                <h2>Analytics Dashboard</h2>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>Total Users</h3>
+                        <p id="totalUsers" class="stat-number">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Active Sessions</h3>
+                        <p id="activeSessions" class="stat-number">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Pageviews</h3>
+                        <p id="pageviews" class="stat-number">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>Conversion Rate</h3>
+                        <p id="conversionRate" class="stat-number">0%</p>
+                    </div>
+                </div>
+                <button id="refreshBtn" class="btn btn-primary">Refresh Analytics</button>
+            </div>
+        </section>
+
+        <section id="settings" class="settings-section">
+            <div class="container">
+                <h2>Settings</h2>
+                <form id="settingsForm" class="settings-form">
+                    <div class="form-group">
+                        <label for="username">Username:</label>
+                        <input type="text" id="username" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="notifications">
+                            <input type="checkbox" id="notifications"> Enable Notifications
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Save Settings</button>
+                </form>
+                <p id="successMsg" class="success-message" style="display:none;">Settings saved successfully!</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Test Dashboard. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
